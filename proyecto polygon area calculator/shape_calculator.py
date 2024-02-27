@@ -1,3 +1,4 @@
+#archivo con la funcion
 class Rectangle:
 
   def __init__(self, width, height):
